@@ -6,7 +6,9 @@ abstract class StylesManager {
       TextStyle(fontSize: 18.0, fontWeight: FontWeight.w600);
 
   static const textStyle20 = TextStyle(
-      fontSize: 20.0, fontWeight: FontWeight.normal, fontFamily: gtSectraFine);
+    fontSize: 20.0,
+    fontWeight: FontWeight.normal,
+  );
 
   static const textStyle30 = TextStyle(
       fontSize: 30.0, fontWeight: FontWeight.normal, fontFamily: gtSectraFine);
